@@ -15,7 +15,7 @@ class _CounterScreenState extends State<CounterScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey,
+      backgroundColor: Colors.blueGrey,
       body: SafeArea(
           child: Center(
         child: Column(
